@@ -1,4 +1,4 @@
-buptlostar/openresty-aila
-buptlostar/centos7-aila
-harbor.aila.site/aila/centos7-ymfr
+#buptlostar/openresty-aila
+#buptlostar/centos7-aila
+#harbor.aila.site/aila/centos7-ymfr
 harbor.aila.site/aila/acme.sh
