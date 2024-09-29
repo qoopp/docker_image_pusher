@@ -3,4 +3,4 @@
 #harbor.aila.site/aila/centos7-ymfr
 #harbor.aila.site/aila/acme.sh
 #lizheming/waline
-docker pull xiaoyaliu/alist
+xiaoyaliu/alist
