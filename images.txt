@@ -5,4 +5,5 @@
 #lizheming/waline
 #xiaoyaliu/alist
 #youshandefeiyang/allinone
-artalk/artalk-go
+#artalk/artalk-go
+ustclug/rocky
