@@ -6,4 +6,4 @@
 #xiaoyaliu/alist
 #youshandefeiyang/allinone
 #artalk/artalk-go
-ustclug/rocky
+ustclug/rocky:9
