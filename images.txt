@@ -4,7 +4,8 @@
 #harbor.aila.site/aila/acme.sh
 #lizheming/waline
 #xiaoyaliu/alist
-xhofe/alist
+#xhofe/alist
 #youshandefeiyang/allinone
 #artalk/artalk-go
 #ustclug/rocky:9
+hslr/sun-panel
