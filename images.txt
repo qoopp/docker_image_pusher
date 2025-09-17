@@ -8,4 +8,5 @@
 #youshandefeiyang/allinone
 #artalk/artalk-go
 #ustclug/rocky:9
-hslr/sun-panel
+#hslr/sun-panel
+mysql:5.7
