@@ -2,11 +2,11 @@
 #buptlostar/centos7-aila
 #harbor.aila.site/aila/centos7-ymfr
 #harbor.aila.site/aila/acme.sh
-#lizheming/waline
+lizheming/waline
 #xiaoyaliu/alist
 #xhofe/alist
 #youshandefeiyang/allinone
 #artalk/artalk-go
 #ustclug/rocky:9
-#hslr/sun-panel
-mysql:5.7
+hslr/sun-panel
+#mysql:5.7
