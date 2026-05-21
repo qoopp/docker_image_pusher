@@ -11,3 +11,4 @@ lizheming/waline
 hslr/sun-panel
 #mysql:5.7
 containrrr/watchtower
+chishin/nginx-proxy-manager-zh
